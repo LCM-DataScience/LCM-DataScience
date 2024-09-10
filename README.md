@@ -60,3 +60,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/LCM-DataScience/LCM-DataScience/output/snake.svg" alt="Snake animation" />
+
+###
