@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://imagizer.imageshack.com/img923/9422/WP1BTe.jpg"  />
-</div>
-
-###
-
 <h3 align="center">Hi there! My name is Luis and I am currently in São Paulo, Brazil.</h3>
 
 ###
