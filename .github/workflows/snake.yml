@@ -2,24 +2,24 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Atualiza a cada 6 horas
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  # Atualizado para v3
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game from commits
+        uses: Platane/snk@v2
         with:
           github_user_name: LCM-DataScience
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          gif_out_path: dist/github-snake.gif
+
+      - name: Upload the generated snake game GIF
+        uses: actions/upload-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-          
+          name: snake-game
+          path: dist/github-snake.gif
