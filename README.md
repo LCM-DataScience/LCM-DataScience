@@ -32,24 +32,25 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luix78/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=004891&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=004891&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="linkedin logo"  />
   </a>
   <a href="mailto:jobs.luis78@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" width="120" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@luix78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="medium logo"  />
   </a>
   <a href="https://discord.com/users/luix78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5a2c89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5a2c89&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
   </a>
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LCM-DataScience&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LCM-DataScience&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LCM-DataScience&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=6" height="150" width="720" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LCM-DataScience&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=5&theme=highcontrast&hide_border=true" height="150" width="420" alt="languages graph"  />
 </div>
 
 ###
