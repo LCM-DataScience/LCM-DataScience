@@ -53,11 +53,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github.com/LCM-DataScience/LCM-DataScience/dist/github-snake.gif" alt="Snake animation" />
-</div>
-
-###
-
-<h4 align="center">Feel free to get in touch for projects contributions.</h4> 
