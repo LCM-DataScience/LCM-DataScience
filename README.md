@@ -1,7 +1,10 @@
 <h3 align="center">Hi there! My name is Luis and I am currently in São Paulo, Brazil.</h3>
+<h3 align="center">Feel free to get in touch for contributions to projects and the exchange of ideas.  </h3>
+
+<br />
 
 ###
-
+  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
