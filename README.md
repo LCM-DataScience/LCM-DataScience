@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! My name is Luis and I am currently in São Paulo, Brazil.</h3>
+<h3 align="center">Hi there! My name is Luis and I am currently in São Paulo - Brazil.</h3>
 <h3 align="center">Feel free to get in touch for contributions to projects and the exchange of ideas.  </h3>
 
 <br />
