@@ -1,10 +1,31 @@
 <h3 align="center">Hi there! My name is Luis and I am currently in São Paulo - Brazil.</h3>
-<h3 align="center">Feel free to get in touch for contributions to projects and the exchange of ideas.  </h3>
-
-<br />
 
 ###
   
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luix78/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=004891&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jobs.luis78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" width="120" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@luix78" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="medium logo"  />
+  </a>
+  <a href="https://discord.com/users/luix78" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5a2c89&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
+  </a>
+</div>
+
+<h4 align="center">Feel free to get in touch for contributions to projects and the exchange of ideas.  </h4>
+
+
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -31,28 +52,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/luix78/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=004891&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:jobs.luis78@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" width="120" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@luix78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="medium logo"  />
-  </a>
-  <a href="https://discord.com/users/luix78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5a2c89&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
-  </a>
-</div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LCM-DataScience&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=6" height="150" width="720" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LCM-DataScience&locale=en&hide_title=false&layout=compact&card_width=290&langs_count=5&theme=highcontrast&hide_border=true" height="150" width="420" alt="languages graph"  />
-</div>
-
-###
