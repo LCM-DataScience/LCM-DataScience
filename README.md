@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! My name is Luis and I am currently in São Paulo, Brazil.</h3>
+<h3 align="center">Hi there! My name is Luis and I am currently in São Paulo, Brazil. And you?</h3>
 
 ###
   
