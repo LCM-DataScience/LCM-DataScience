@@ -12,9 +12,6 @@
   <a href="mailto:jobs.luis78@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFF00&logoColor=black&labelColor=&style=for-the-badge" height="35" width="120" alt="gmail logo"  />
   </a>
-  <a href="https://medium.com/@luix78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="medium logo"  />
-  </a>
   <a href="https://discord.com/users/luix78" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5a2c89&logoColor=white&labelColor=&style=for-the-badge" height="35" width="120" alt="discord logo"  />
   </a>
